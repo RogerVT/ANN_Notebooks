@@ -2,7 +2,7 @@
 
 Implementación de una red neuronal artificial para clasificar números segmentados (usando KMeans). La NN fue entrenada usando el dataset MNIST. Más detalles serán incluidos (y quizás un tutorial) serán incluidos en este README. 
 
-##Uso
+## Uso
 
 `pip install -r requirements.txt`
 
